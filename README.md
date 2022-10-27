@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kaemjotes aka Karolina
+- 👀 I’m interested in applied mathematics, algorithms, music and art
+- 🌱 I’m currently learning the basics of web development
+- 💞️ I’m not looking forward to collaboration just yet, because I'm not sure what I'm doing 🙈
+- 📫 You can reach me by email: kaemjotes@gmail.com 
